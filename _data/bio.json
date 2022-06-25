@@ -2,7 +2,7 @@
   "basics": {
     "name": "Shane Smith",
     "label": "Distance Learning Support Technician",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://avatars.githubusercontent.com/u/95055214?s=96&v=4",
     "email": "shane.smith1206@gmail.com",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "JavaScript" },
+    { "name": "Python" },
+    { "name": "Machine Learning" },
+    { "name": "Software/Web Development" },
+    { "name": "Cloud Technologies" }
   ],
   "skills": [
     {
