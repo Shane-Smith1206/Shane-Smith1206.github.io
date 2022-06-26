@@ -25,16 +25,16 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "macOS", "Ubuntu", "Git/GitHub", "Windows", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "Gateway Technical College, Racine, WI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
@@ -45,21 +45,21 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Gateway Technical College",
+      "position": "Distance Learning Support Technician",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-11-30",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Head of Distance Learning Technologies and Integrations",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee the colleges LMS",
+        "Drive, design, build, and support distance learning technologies for Gateway Technical College"
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Gateway Technical College",
       "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "http://www.gtc.edu",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
