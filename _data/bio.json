@@ -2,16 +2,16 @@
   "basics": {
     "name": "Shane Smith",
     "label": "Distance Learning Support Technician",
-    "picture": "https://avatars.githubusercontent.com/u/95055214?s=96&v=4",
+    "picture": "https://avatars.githubusercontent.com/u/95055214?v=4",
     "email": "shane.smith1206@gmail.com",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "phone": "8262-394-6554",
+    "website": "https://shane-smith1206.github.io",
     "summary": "I am a Distance Learning Support Technician who loves working with technology.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "shane-smith1206", "url": "http://github.com/shane-smith1206" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "linkedin", "username": "smiths156", "url": "http://linkedin.com/in/smiths156" },
+      { "network": "twitter", "username": "ShaneSmith1206", "url": "http://twitter.com/shanesmith1206" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
@@ -25,11 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Javascript" ]
+      "keywords": ["HTML, CSS, Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "macOS", "Ubuntu", "Git/GitHub", "Windows", "TI LaunchPad" ]
+      "keywords": [ "macOS", "Ubuntu", "Git/GitHub", "WSL", "Windows Terminal" ]
     }
   ],
   "education": [
@@ -48,7 +48,7 @@
       "company": "Gateway Technical College",
       "position": "Distance Learning Support Technician",
       "website": "",
-      "startDate": "2015-11-30",
+      "startDate": "2020-02-17",
       "endDate": "Present",
       "summary": "Head of Distance Learning Technologies and Integrations",
       "highlights": [
@@ -58,10 +58,10 @@
     },
     {
       "company": "Gateway Technical College",
-      "position": "Help Desk Consultant",
+      "position": "Computer Support Technician",
       "website": "http://www.gtc.edu",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2015-11-30",
+      "endDate": "2020-02-17",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
@@ -98,7 +98,7 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Deans List",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
