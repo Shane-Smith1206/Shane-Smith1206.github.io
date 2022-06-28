@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/MLD.png
 title: "Instagram Landing Page"
 date: 2015
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/MLD.png">
 
 In this project we created a LinkTree Alternative for a client who needed an Instgram landing page to drive sales and social media connections. The project helped me learn how to design and implement a responsive web site. 
 
