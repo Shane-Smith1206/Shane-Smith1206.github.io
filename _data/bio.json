@@ -4,21 +4,21 @@
     "label": "Distance Learning Support Technician",
     "picture": "https://avatars.githubusercontent.com/u/95055214?v=4",
     "email": "shane.smith1206@gmail.com",
-    "phone": "8262-394-6554",
+    "phone": "262-394-6554",
     "website": "https://shane-smith1206.github.io",
     "summary": "I am a Distance Learning Support Technician who loves working with technology.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "shane-smith1206", "url": "http://github.com/shane-smith1206" },
       { "network": "linkedin", "username": "smiths156", "url": "http://linkedin.com/in/smiths156" },
-      { "network": "twitter", "username": "ShaneSmith1206", "url": "http://twitter.com/shanesmith1206" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "sleepyShaman87", "url": "http://twitter.com/sleepyshaman97" },
+     /* May Not use { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" } */
     ]
   },
   "interests": [
     { "name": "JavaScript" },
     { "name": "Python" },
-    { "name": "Angular, Vue" },
+    { "name": "Angular" },
     { "name": "Software/Web Development" },
     { "name": "Cloud Technologies" }
   ],
@@ -29,16 +29,16 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "macOS", "Ubuntu", "Git/GitHub", "WSL", "Windows Terminal" ]
+      "keywords": [ "macOS", "Ubuntu", "Git/GitHub", "WSL", "Windows Terminal", "Insomnia" ]
     }
   ],
   "education": [
     {
       "institution": "Gateway Technical College, Racine, WI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Support Specialist",
+      "studyType": "A.A.S",
       "startDate": "2013-09-01",
-      "endDate": "Present",
+      "endDate": "2015-5-24",
       "courses": [
       ]
     }
@@ -47,7 +47,7 @@
     {
       "company": "Gateway Technical College",
       "position": "Distance Learning Support Technician",
-      "website": "",
+      "website": "http://www.gtc.edu",
       "startDate": "2020-02-17",
       "endDate": "Present",
       "summary": "Head of Distance Learning Technologies and Integrations",
