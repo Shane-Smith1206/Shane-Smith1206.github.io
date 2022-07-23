@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "shane-smith1206", "url": "http://github.com/shane-smith1206" },
       { "network": "linkedin", "username": "smiths156", "url": "http://linkedin.com/in/smiths156" },
-      { "network": "twitter", "username": "sleepyShaman87", "url": "http://twitter.com/sleepyshaman97" },
-     /* May Not use { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" } */
+      { "network": "twitter", "username": "sleepyShaman87", "url": "http://twitter.com/sleepyshaman97" }
     ]
   },
   "interests": [
@@ -81,7 +80,7 @@
         "Learned best practices for backing up and restoring a users data",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -89,7 +88,7 @@
       "date": "2013-Present",
       "awarder": "Gateway Technical College",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+    }
 
   ],
   "references": [
