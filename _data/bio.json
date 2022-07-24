@@ -6,12 +6,12 @@
     "email": "shane.smith1206@gmail.com",
     "phone": "262-394-6554",
     "website": "https://shane-smith1206.github.io",
-    "summary": "I am a Distance Learning Support Technician who loves working with technology.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am a Distance Learning Support Technician who loves working with technology. Connecting learner and teacher no matter the distance.",
+    "location": { "address": "", "postalCode": "53405", "city": "Racine", "countryCode": "USA", "region": "Wisconsin" },
     "profiles": [
       { "network": "github", "username": "shane-smith1206", "url": "http://github.com/shane-smith1206" },
       { "network": "linkedin", "username": "smiths156", "url": "http://linkedin.com/in/smiths156" },
-      { "network": "twitter", "username": "sleepyShaman87", "url": "http://twitter.com/sleepyshaman97" }
+      { "network": "twitter", "username": "sleepyShaman87", "url": "http://twitter.com/sleepyshaman87" }
     ]
   },
   "interests": [
@@ -51,7 +51,7 @@
       "endDate": "Present",
       "summary": "Head of Distance Learning Technologies and Integrations",
       "highlights": [
-        "Maintain, update, and oversee the colleges LMS",
+        "Maintain, update, and oversee the colleges LMS (Learning Management System)",
         "Drive, design, build, and support distance learning technologies for Gateway Technical College"
       ]
     },
