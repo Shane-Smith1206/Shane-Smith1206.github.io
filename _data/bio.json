@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Shane Smith",
+    "label": "Distance Learning Support Technician",
+    "picture": "https://avatars.githubusercontent.com/u/95055214?v=4",
+    "email": "shane.smith1206@gmail.com",
+    "phone": "262-394-6554",
+    "website": "https://shane-smith1206.github.io",
+    "summary": "I am a Distance Learning Support Technician who loves working with technology. Connecting learner and teacher no matter the distance.",
+    "location": { "address": "", "postalCode": "53405", "city": "Racine", "countryCode": "USA", "region": "Wisconsin" },
+    "profiles": [
+      { "network": "github", "username": "shane-smith1206", "url": "http://github.com/shane-smith1206" },
+      { "network": "linkedin", "username": "smiths156", "url": "http://linkedin.com/in/smiths156" },
+      { "network": "twitter", "username": "sleepyShaman87", "url": "http://twitter.com/sleepyshaman87" }
+    ]
+  },
+  "interests": [
+    { "name": "JavaScript" },
+    { "name": "Python" },
+    { "name": "Angular" },
+    { "name": "Software/Web Development" },
+    { "name": "Cloud Technologies" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["HTML, CSS, Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "macOS", "Ubuntu", "Git/GitHub", "WSL", "Windows Terminal", "Insomnia" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gateway Technical College, Racine, WI",
+      "area": "Computer Support Specialist",
+      "studyType": "A.A.S",
+      "startDate": "2013-09-01",
+      "endDate": "2015-5-24",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Gateway Technical College",
+      "position": "Distance Learning Support Technician",
+      "website": "http://www.gtc.edu",
+      "startDate": "2020-02-17",
+      "endDate": "Present",
+      "summary": "Head of Distance Learning Technologies and Integrations",
+      "highlights": [
+        "Maintain, update, and oversee the colleges LMS (Learning Management System)",
+        "Drive, design, build, and support distance learning technologies for Gateway Technical College"
+      ]
+    },
+    {
+      "company": "Gateway Technical College",
+      "position": "Computer Support Technician",
+      "website": "http://www.gtc.edu",
+      "startDate": "2015-11-30",
+      "endDate": "2020-02-17",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Earth Day",
+      "website": "http://gtc.edu",
+      "position": "Student Casual - IT",
+      "startDate": "2014-04-01",
+      "endDate": "Present",
+      "summary": "Coordinated a group with the collection and disposal of technologies no longer being needed in the community.",
+      "highlights": [
+        "Learned best practices for backing up and restoring a users data",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Deans List",
+      "date": "2013-Present",
+      "awarder": "Gateway Technical College",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
